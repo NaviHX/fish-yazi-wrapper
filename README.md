@@ -7,11 +7,11 @@
 Using [fisher](https://github.com/jorgebucaran/fisher):
 
 ```console
-fisher install NaviHX/fish-yazi
+fisher install NaviHX/fish-yazi-wrapper
 ```
 
 Update
 
 ```console
-fisher update NaviHX/fish-yazi
+fisher update NaviHX/fish-yazi-wrapper
 ```
