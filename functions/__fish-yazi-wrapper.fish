@@ -12,5 +12,5 @@ function __fish-yazi-wrapper -d 'y wrapper for yazi'
         builtin cd -- "$cwd"
     end
 
-    builtin rm -- "$tmp"
+    command rm -- "$tmp"
 end
